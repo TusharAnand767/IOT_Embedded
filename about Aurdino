@@ -1,0 +1,42 @@
+Arduino core for the ESP32
+Build Status 
+
+Need help or have a question? Join the chat at https://gitter.im/espressif/arduino-esp32
+Contents
+Development Status
+Installation Instructions
+Decoding Exceptions
+Issue/Bug report template
+ESP32Dev Board PINMAP
+Development Status
+Latest stable release Release Version Release Date Downloads
+
+Latest development release Development Version Development Date Downloads
+
+Installation Instructions
+Using Arduino IDE Boards Manager (preferred)
+Instructions for Boards Manager
+Using Arduino IDE with the development repository
+Instructions for Windows
+Instructions for Mac
+Instructions for Debian/Ubuntu Linux
+Instructions for Fedora
+Instructions for openSUSE
+Using PlatformIO
+Building with make
+Using as ESP-IDF component
+Using OTAWebUpdater
+Decoding exceptions
+You can use EspExceptionDecoder to get meaningful call trace.
+
+Issue/Bug report template
+Before reporting an issue, make sure you've searched for similar one that was already created. Also make sure to go through all the issues labelled as for reference.
+
+Finally, if you are sure no one else had the issue, follow the ISSUE_TEMPLATE while reporting any issue.
+
+ESP32Dev Board PINMAP
+Pin Functions
+
+Tip
+Sometimes to program ESP32 via serial you must keep GPIO0 LOW during the programming process
+
